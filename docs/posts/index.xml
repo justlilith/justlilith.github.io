@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Lilith&#39;s Space</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Lilith&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2020 14:54:42 -0500</lastBuildDate>
+    
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Init Post</title>
+      <link>/posts/init-post/</link>
+      <pubDate>Sat, 31 Oct 2020 14:54:42 -0500</pubDate>
+      
+      <guid>/posts/init-post/</guid>
+      <description>Personal Site v2 The current site has a tumblr backend for content management and ease of publishing. However, it&amp;rsquo;s time to move on:
+ I really want to try out Hugo tumblr sites are much more heavy than I&amp;rsquo;d prefer Pushing updates should be much easier on github pages than tumblr So, over time, this will slowly evolve into a replacement for https://justlilith.com  Sections:
+ Blog   It&amp;rsquo;s tempting to call it Blag, but it&amp;rsquo;s just a blog for things that don&amp;rsquo;t fit on Twitter.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

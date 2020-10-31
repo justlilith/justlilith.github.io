@@ -1,0 +1,7 @@
+baseURL = "http://justlilith.github.io/"
+languageCode = "en-us"
+title = "Lilith's Space"
+theme = "hugo-notepadium"
+
+[params]
+style = "dark"
